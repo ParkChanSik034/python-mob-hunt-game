@@ -44,10 +44,10 @@ python main.py
 ---
 
 ## 팀원 역할
-* **팀원 A (Player 담당)**: `player.py`에서 플레이어 생성, 공격 메서드, 데미지 공식 및 상태 출력 구현
-* **팀원 B (Monster 담당)**: `monster.py`에서 상속 구조를 이용한 `Mob` 부모 클래스 및 `Mushroom`, `Slime` 자식 클래스 기믹 구현
-* **팀원 C (Battle 담당)**: `battle.py`에서 전투 판정 및 몬스터 생사 체크를 위한 `BattleManager` 구현
-* **팀원 D (Game & Main 담당)**: `game.py`와 `main.py`를 구현하고 각 팀원들의 코드를 연결하여 터미널 게임 완성
+* **정지윤 (Player 담당)**: `player.py`에서 플레이어 생성, 공격 메서드, 데미지 공식 및 상태 출력 구현
+* **조율리 (Monster 담당)**: `monster.py`에서 상속 구조를 이용한 `Mob` 부모 클래스 및 `Mushroom`, `Slime` 자식 클래스 기믹 구현
+* **김동욱 (Battle 담당)**: `battle.py`에서 전투 판정 및 몬스터 생사 체크를 위한 `BattleManager` 구현
+* **박찬식 (Game & Main 담당)**: `game.py`와 `main.py`를 구현하고 각 팀원들의 코드를 연결하여 터미널 게임 완성
 
 ---
 
