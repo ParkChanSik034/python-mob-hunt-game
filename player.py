@@ -1,5 +1,3 @@
-# player.py
-
 class Player:
     def __init__(self, name, hp=100, attack_power=10):
         """
